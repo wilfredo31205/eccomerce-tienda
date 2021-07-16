@@ -1,0 +1,7 @@
+ // importaciones de todos los sass que tenga nuestra aplicacion 
+ // layout 
+ @import "./color.scss";
+ @import "../layout//BasicLayout/BasicLayout";
+ @import "../Components/Header/Header.scss";
+ @import "../Components/Header/TopBar/TopBar.scss";
+ @import "../Components/Header/Menu/Menu.scss";
